@@ -39,6 +39,7 @@
 ## Python
 
 * [How to Use Jupyter](python/untitled.md)
+* [Data Structure](python/data-structure.md)
 
 ## Computer Engineering
 
@@ -47,4 +48,8 @@
 ## Programming Language
 
 * [OOP](programming-language/oop.md)
+
+## Network
+
+* [TCP/IP](network/tcp-ip.md)
 

@@ -1,22 +1,17 @@
 # Table of contents
 
-* [Initial page](README.md)
-* [HTML](html.md)
-* [CSS](css.md)
+* [Resume](README.md)
 
 ## HTML
 
-* [April](html-1/box-model/README.md)
-  * [HTML](html-1/box-model/html.md)
-  * [CSS](html-1/box-model/css.md)
-  * [Untitled](html-1/box-model/untitled.md)
-  * [Semantic](html-1/box-model/semantic.md)
+* [1](html/1.md)
+* [2](html/2.md)
 
 ## CSS
 
-* [Untitled](css-1/untitled.md)
+* [1](css/1.md)
 
 ## Javascript
 
-* [Untitled](javascript/untitled.md)
+* [1](javascript/1.md)
 

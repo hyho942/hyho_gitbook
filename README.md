@@ -1,5 +1,7 @@
 # Resume
 
+> Hello Im a Front - End Developer
+
 | Name | HYUN HO LEE |
 | :--- | :--- |
 | Email | hyunholee90@gmail.com |

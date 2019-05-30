@@ -29,13 +29,13 @@
 * [Operator](javascript/operator.md)
 * [Conditional Operator](javascript/conditional-operator.md)
 * [Explicit Coercion](javascript/explicit-coercion.md)
-* [REST\(Representational State Transfer\)](javascript/rest-representational-state-transfer.md)
-* [Ajax](javascript/ajax.md)
 * [Event](javascript/event.md)
-* [DOM Object](javascript/dom-object.md)
-* [RegExp](javascript/regexp.md)
 * [This](javascript/this.md)
 * [Array](javascript/array.md)
+* [DOM Object](javascript/dom-object.md)
+* [RegExp](javascript/regexp.md)
+* [Ajax](javascript/ajax.md)
+* [REST\(Representational State Transfer\)](javascript/rest-representational-state-transfer.md)
 * [Promise](javascript/promise.md)
 
 ## GIT

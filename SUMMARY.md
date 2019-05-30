@@ -24,6 +24,7 @@
 * [Javascript is...](javascript/untitled.md)
 * [Function](javascript/1.md)
 * [Variable](javascript/variable.md)
+* [Let / Const](javascript/let-const.md)
 * [Data Type](javascript/data-type.md)
 * [Operator](javascript/operator.md)
 * [Conditional Operator](javascript/conditional-operator.md)
@@ -34,6 +35,8 @@
 * [Event](javascript/event.md)
 * [DOM Object](javascript/dom-object.md)
 * [RegExp](javascript/regexp.md)
+* [This](javascript/this.md)
+* [Array](javascript/array.md)
 
 ## GIT
 

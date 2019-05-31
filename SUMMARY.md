@@ -53,10 +53,11 @@
 ## Python
 
 * [How to Use Jupyter](python/untitled.md)
-* [Data Structure](python/data-structure.md)
 
 ## Computer Engineering
 
+* [Queue](computer-engineering/queue.md)
+* [Data Structure](computer-engineering/data-structure.md)
 * [Untitled](computer-engineering/untitled.md)
 
 ## Programming Language
@@ -70,4 +71,5 @@
 ## Programming Example
 
 * [Todo List](programming-example/todo-list.md)
+* [Untitled](programming-example/untitled.md)
 

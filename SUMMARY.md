@@ -58,7 +58,7 @@
 
 * [Queue](computer-engineering/queue.md)
 * [Data Structure](computer-engineering/data-structure.md)
-* [Untitled](computer-engineering/untitled.md)
+* [HTTP Status Code](computer-engineering/untitled.md)
 
 ## Programming Language
 

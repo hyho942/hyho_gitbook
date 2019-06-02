@@ -12,13 +12,11 @@ All browsers and Node.js have a built-in JavaScript engine. Therefore, both envi
 
 The browser provides a Web API \(Document Object Model\) specific to the client-side environment. The primary goal is to render the web page on the screen by running HTML, CSS, and JavaScript.
 
-= Support ECMAScript, DOM, BOM, XMLHttpRequest, Fetch, requestAnimationFrame, SVG, Web Storage, Web Component, Web worker.
-
-
+* Support ECMAScript, DOM, BOM, XMLHttpRequest, Fetch, requestAnimationFrame, SVG, Web  Storage, Web Component, Web worker.
 
 Node.js is not a language, Node.js feature is provided for the server side environment. Also, It does not provide a Web API \(DOM API\). Node.js also provides a built-in File system that allows to create and modify files.
 
-= Support ECMASscript, Node.js only.
+* Support ECMASscript, Node.js only.
 
 
 

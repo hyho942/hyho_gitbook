@@ -6,7 +6,7 @@
 
 
 
-### 1. JavaScript execution environment
+### 1. JavaScript Execution Environment
 
 All browsers and Node.js have a built-in JavaScript engine. Therefore, both environments can run JavaScript. But the browser and Node.js have different purposes.
 
@@ -17,6 +17,12 @@ The browser provides a Web API \(Document Object Model\) specific to the client-
 Node.js is not a language, Node.js feature is provided for the server side environment. Also, It does not provide a Web API \(DOM API\). Node.js also provides a built-in File system that allows to create and modify files.
 
 * Support ECMASscript, Node.js only.
+
+### 2. Programming Language
+
+### 3. JavaScript Feature
+
+### 4. ECMAScript is...
 
 
 

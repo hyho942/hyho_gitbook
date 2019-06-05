@@ -17,7 +17,7 @@
 
 * [Position](css/1.md)
 * [CSS Reset](css/css-reset.md)
-* [Untitled](css/untitled.md)
+* [Display](css/untitled.md)
 
 ## Javascript
 

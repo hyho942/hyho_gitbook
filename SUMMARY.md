@@ -24,6 +24,7 @@
 * [Javascript is...](javascript/untitled.md)
 * [Object](javascript/object.md)
 * [Function](javascript/1.md)
+* [Closure](javascript/closure.md)
 * [Variable](javascript/variable.md)
 * [Let / Const](javascript/let-const.md)
 * [Data Type](javascript/data-type.md)

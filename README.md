@@ -1,8 +1,8 @@
 # Resume
 
-> " Hello, HYUN HO LEE is FRONT - END DEVELOPER. I am interested in IT and service application. I recently began to be fascinated by web programming, e.g. developing apps and building websites. I am therefore currently looking for a job or an internship as a front-end developer."
+ " Hello, HYUN HO LEE is FRONT - END DEVELOPER. I am interested in IT and service application. I recently began to be fascinated by web programming, e.g. developing apps and building websites. I am therefore currently looking for a job or an internship as a front-end developer."
 
- 
+
 
 | Name | HYUN HO LEE |
 | :--- | :--- |
@@ -11,4 +11,22 @@
 | Github | [https://github.com/hyho942](https://github.com/hyho942) |
 
 ## SKILLS
+
+{% tabs %}
+{% tab title="HTML" %}
+
+{% endtab %}
+
+{% tab title="CSS" %}
+
+{% endtab %}
+
+{% tab title="JavaScript" %}
+
+{% endtab %}
+{% endtabs %}
+
+## Education
+
+## Awards
 

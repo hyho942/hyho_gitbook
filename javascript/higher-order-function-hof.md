@@ -8,13 +8,37 @@ A higher order function is oriented towards immutability and rejects mutable dat
 
 #### = \(!\) Changes the original array \(ascending order\)
 
+
+
+#### Return Value
+
 Arrange the elements of the array properly and returns the sorted array.
 
 ## Array.prototype.reverse\( \)
 
 #### = \(!\) Changes the original array \(descending order\)
 
+
+
+#### Return Value
+
 Arrange the elements of the array properly and returns the sorted array.
 
-## Array.prototype.forEach\( callback : \( value \)\)
+## .forEach\( callback : \( value : T/ index : number/ array: T\[ \] \) =&gt; void\)
+
+* Use forEach instead of for syntax
+
+## .map\( callback : \( value : T \)\)
+
+## .filter\( callback : \( value : T / index : number / array : Array \)\)
+
+## .reduce\( callback : \( \) =&gt; \)
+
+## .some\( callback : \( \) =&gt; \)
+
+## .every\( callback : \( \) =&gt; \)
+
+## .find\( predicate : \( \) =&gt; \)
+
+## .findIndex\( predicate \( \) \)
 

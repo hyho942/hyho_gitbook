@@ -39,6 +39,7 @@
 * [Ajax](javascript/ajax.md)
 * [REST\(Representational State Transfer\)](javascript/rest-representational-state-transfer.md)
 * [Promise](javascript/promise.md)
+* [Higher Order Function \(HOF\)](javascript/higher-order-function-hof.md)
 
 ## GIT
 

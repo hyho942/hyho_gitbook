@@ -53,10 +53,6 @@
 * [Sorting](algorithm/sorting.md)
 * [Quick Sort](algorithm/quick-sort.md)
 
-## Python
-
-* [How to Use Jupyter](python/untitled.md)
-
 ## Computer Engineering
 
 * [Queue](computer-engineering/queue.md)
@@ -75,4 +71,12 @@
 
 * [Todo List](programming-example/todo-list.md)
 * [Untitled](programming-example/untitled.md)
+
+## Angular
+
+* [How to Use Angular](angular/how-to-use-angular.md)
+
+## Python
+
+* [How to Use Jupyter](python/untitled.md)
 

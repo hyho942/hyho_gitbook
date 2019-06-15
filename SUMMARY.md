@@ -59,14 +59,6 @@
 * [Data Structure](computer-engineering/data-structure.md)
 * [HTTP Status Code](computer-engineering/untitled.md)
 
-## Programming Language
-
-* [OOP](programming-language/oop.md)
-
-## Network
-
-* [TCP/IP](network/tcp-ip.md)
-
 ## Programming Example
 
 * [Todo List](programming-example/todo-list.md)

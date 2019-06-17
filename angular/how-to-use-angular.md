@@ -7,33 +7,71 @@ Angular CLI requires Node.js 6.9.0, NPM 3.0.0 or higher.
 
 #### Angular Installation
 
-1.     npm install -g @angular/cli
+```bash
+$npm install -g @angular/cli
+```
 
-a.     기존 버전 삭제
 
-i.     Npm uninstall -g @angular/cli // 삭제
 
-ii.     Npm cache verify // 캐시 정합성 확인
+> Delete existing version
 
-iii.     Npm install -g angular/cli@latest // 설치
+```bash
+$npm uninstall -g @angular/cli
+```
 
-2.     Ng version // 버전 확인
+* Delete Angular CLI
 
-3.     Ng help
+```bash
+$npm cache verify
+```
 
-4.     Ng new &lt;project-name&gt;
+* Verify Cache Matching
 
-a.     새로운 프로젝트가 생성되고 스캐폴딩이 작성된다.
+```bash
+$npm install -g angular/cli@latest
+```
 
-5.     Cd &lt;project-name&gt;
+* Install Angular CLI
 
-6.     Ng serve // 프로젝트 실행- localhost 접속 가능
 
-a.     Ng serve –open // 자동으로 서버를 실행 해준다.
 
-7.     Ng serve –port 4500 // 서버 포트를 바꿀수 있다.
+> Option
 
-8.     서버가 구동할 때, \(&lt;project-name&gt;/src/app/component.ts\)를 수정하고 저장하면, LiveReload 기능이 자동적으로 페이지를 리로드 해준다.
+```bash
+$ng version
+```
+
+```bash
+$ng help
+```
+
+
+
+#### Project Create
+
+```bash
+$ng new <project Name>
+```
+
+* A new project is created and the scaffolding is created.
+
+```bash
+$cd <project Name>
+```
+
+```bash
+$ng serve
+$ng serve -o
+$ng serve --open
+```
+
+* Project lunch at localhost environment, -o , --open is automatically open browser. 
+
+```bash
+$ng serve --port 4500
+```
+
+* 8.     서버가 구동할 때, \(&lt;project-name&gt;/src/app/component.ts\)를 수정하고 저장하면, LiveReload 기능이 자동적으로 페이지를 리로드 해준다.
 
 #### Component Create Command
 

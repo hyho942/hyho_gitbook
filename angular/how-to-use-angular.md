@@ -5,7 +5,7 @@ Angular CLI requires Node.js 6.9.0, NPM 3.0.0 or higher.
 * Node.js install =&gt;
 * npm install =&gt;
 
-#### Angular Installation
+## Angular Installation
 
 ```bash
 $npm install -g @angular/cli
@@ -45,9 +45,7 @@ $ng version
 $ng help
 ```
 
-
-
-#### Project Create
+## Project Create
 
 ```bash
 $ng new <project Name>
@@ -73,13 +71,7 @@ $ng serve --port 4500
 
 * Change the server port
 
-
-
-
-
-* 8.     서버가 구동할 때, \(&lt;project-name&gt;/src/app/component.ts\)를 수정하고 저장하면, LiveReload 기능이 자동적으로 페이지를 리로드 해준다.
-
-#### Component Create Command
+## Component Create Command
 
 | Create Component | Commend | Abbreviation | f |
 | :--- | :--- | :--- | :--- |
@@ -92,4 +84,26 @@ $ng serve --port 4500
 | Class | ng generate class class-name | ng g cl class-name |  |
 | Interface | ng generate interface interface-name | ng g i interface-name |  |
 | Enum | ng generate enum enum-name | ng g e enum-name |  |
+
+## Component Naming Convention
+
+Angular CLI using kebab-case
+
+projectComponent =&gt; project-component
+
+ProjectComponent =&gt; project-component
+
+
+
+## Generated Component
+
+./src/app
+
+&lt;Project Name&gt;.component.html
+
+&lt;Project Name&gt;.component.css
+
+&lt;Project Name&gt;.component.ts
+
+&lt;Project Name&gt;.component.spec.ts 
 

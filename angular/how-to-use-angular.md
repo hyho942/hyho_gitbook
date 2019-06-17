@@ -71,6 +71,12 @@ $ng serve --open
 $ng serve --port 4500
 ```
 
+* Change the server port
+
+
+
+
+
 * 8.     서버가 구동할 때, \(&lt;project-name&gt;/src/app/component.ts\)를 수정하고 저장하면, LiveReload 기능이 자동적으로 페이지를 리로드 해준다.
 
 #### Component Create Command

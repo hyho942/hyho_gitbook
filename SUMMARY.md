@@ -67,6 +67,7 @@
 ## Angular
 
 * [How to Use Angular](angular/how-to-use-angular.md)
+* [Component](angular/component.md)
 
 ## Python
 

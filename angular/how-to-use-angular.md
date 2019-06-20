@@ -48,7 +48,8 @@ $ng help
 ## Project Create
 
 ```bash
-$ng new <project Name>
+$ng new <project Name> [option]
+$ng n <project Name> [option]
 ```
 
 * A new project is created and the scaffolding is created.
@@ -84,6 +85,32 @@ $ng serve --port 4500
 | Class | ng generate class &lt;name&gt; \[option\] | ng g cl &lt;name&gt; \[option\] |
 | Interface | ng generate interface &lt;name&gt; &lt;type&gt;  \[option\] | ng g i &lt;name&gt; &lt;type&gt;  \[option\] |
 | Enum | ng generate enum &lt;name&gt; \[option\] | ng g e enum-name &lt;name&gt; \[option\] |
+
+### \[Option\]
+
+     \*-s\* \( --inlineStyle = true \| false \)
+
+    : 인라인 스타일로 생성
+
+    \(When true, includes styles inline in the component TS file.\)
+
+     \*-t\* \( --inlineTemplate = true \| false \)
+
+    : 인라인 템플릿으로 생성
+
+    \(When true, includes template inline in the component TS file.\)
+
+     \*-S\* \( --skipTests = true \| false \)
+
+    : 대문자 S, 테스트 파일을 생성하지 않는다.
+
+    \(When true, does not generate "spec.ts" test files for the new project.\)
+
+     \*-g\* \( --skipGit = true \| false \)
+
+    : 깃 레포지토리를 초기화 하지 않음
+
+    \(When true, does not initialize a git repository.\)
 
 ## Component Naming Convention
 

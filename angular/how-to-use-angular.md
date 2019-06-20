@@ -73,17 +73,17 @@ $ng serve --port 4500
 
 ## Component Create Command
 
-| Create Component | Commend | Abbreviation | f |
-| :--- | :--- | :--- | :--- |
-| Component | ng generate component \(component-name\) | ng g c \(component-name\) | UI Create |
-| Directive | ng generate directive directive-name | ng g d directive-name |  |
-| Pipe | ng generate pipe pipe-name | ng g p pipe-name |  |
-| Service | ng generate service service-name | ng g s service-name |  |
-| Module | ng generate module module-name | ng g m module-name |  |
-| Guard | ng generate guard guard-name | ng g g guard-name |  |
-| Class | ng generate class class-name | ng g cl class-name |  |
-| Interface | ng generate interface interface-name | ng g i interface-name |  |
-| Enum | ng generate enum enum-name | ng g e enum-name |  |
+| Create Component | Commend | Abbreviation |
+| :--- | :--- | :--- |
+| Component | ng generate component &lt;name&gt; \[option\] | ng g c &lt;name&gt; \[option\] |
+| Directive | ng generate directive &lt;name&gt; \[option\] | ng g d &lt;name&gt; \[option\] |
+| Pipe | ng generate pipe &lt;name&gt; \[option\] | ng g p &lt;name&gt; \[option\] |
+| Service | ng generate service &lt;name&gt; \[option\] | ng g s &lt;name&gt; \[option\] |
+| Module | ng generate module &lt;name&gt; \[option\] | ng g m &lt;name&gt; \[option\] |
+| Guard | ng generate guard &lt;name&gt; \[option\] | ng g g &lt;name&gt; \[option\] |
+| Class | ng generate class &lt;name&gt; \[option\] | ng g cl &lt;name&gt; \[option\] |
+| Interface | ng generate interface &lt;name&gt; &lt;type&gt;  \[option\] | ng g i &lt;name&gt; &lt;type&gt;  \[option\] |
+| Enum | ng generate enum &lt;name&gt; \[option\] | ng g e enum-name &lt;name&gt; \[option\] |
 
 ## Component Naming Convention
 

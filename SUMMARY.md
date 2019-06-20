@@ -68,6 +68,8 @@
 
 * [How to Use Angular](angular/how-to-use-angular.md)
 * [Component](angular/component.md)
+* [Directive](angular/directive.md)
+* [Data Binding](angular/data-binding.md)
 
 ## Python
 

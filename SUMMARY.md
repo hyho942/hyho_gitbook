@@ -70,6 +70,7 @@
 * [Component](angular/component.md)
 * [Directive](angular/directive.md)
 * [Data Binding](angular/data-binding.md)
+* [Pipe](angular/pipe.md)
 
 ## Python
 

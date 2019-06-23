@@ -2,6 +2,18 @@
 
 Changing the data itself can have a side effect. Therefore, if you want to change the format displayed on the screen, use a pipe.
 
+## Create Pipe
+
+```bash
+$ng new <name> -t -s -S
+
+$ng cd <name>
+
+$ng generate <name> [option]
+```
+
+## title
+
 | Pipe | Mean |
 | :--- | :--- |
 | **date : ' '** | Date format conversion |
@@ -14,9 +26,7 @@ Changing the data itself can have a side effect. Therefore, if you want to chang
 | **slice : '2'** //=&gt; cut second character and return | String extraction |
 | **async** | Asynchronism object extraction |
 
-
-
-사용법
+## How to Use
 
 ```typescript
 {{ value | pipeName }}
@@ -34,11 +44,5 @@ Changing the data itself can have a side effect. Therefore, if you want to chang
 {{ value | pipeName1 | pipeName2 }}
 ```
 
-파이프 생성
 
-$ ng new &lt;name&gt; -t -s -S
-
-$ ng cd &lt;name&gt;
-
-$ ng generate &lt;name&gt; \[option\]
 

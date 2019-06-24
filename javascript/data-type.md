@@ -25,6 +25,12 @@ All of data in JavaScript has a type. The data type is also stored in memory in 
     * Arrays
     * Object
 
+### Check Data Type
+
+```typescript
+typeof <value>
+```
+
 ### 1. Value
 
 It is an expression that can not be evaluated anymore. An expression is a statement that generates a value. That is, the expression is evaluated to produce a value.

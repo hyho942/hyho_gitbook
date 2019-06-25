@@ -22,7 +22,6 @@
 ## Javascript
 
 * [Javascript is...](javascript/untitled.md)
-* [Value](javascript/value.md)
 * [Object](javascript/object.md)
 * [Function](javascript/1.md)
 * [Closure](javascript/closure.md)

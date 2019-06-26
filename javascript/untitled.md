@@ -18,8 +18,6 @@ Node.js is not a language, Node.js feature is provided for the server side envir
 
 * Support ECMASscript, Node.js only.
 
-
-
 ### 2. Programming Language
 
 There are compiler and interpreter methods for passing commands to a computer. This serves as a translator that translates the human-understandable syntax into machine-language.

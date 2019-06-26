@@ -1,5 +1,7 @@
 # Git Comment
 
+## CLI \(Shell / Terminal\)
+
 | Command |  |
 | :--- | :--- |
 | **ls** | Current file status \(list select\) |

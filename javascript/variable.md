@@ -6,3 +6,9 @@ The name given to the memory space where one value can be stored or refers to th
 
 
 
+### Variable Hoisting
+
+### Variable Name
+
+### 
+

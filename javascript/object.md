@@ -4,8 +4,11 @@ Multiple values ​​can be grouped \(objects\) into a single value. In additio
 
 ```javascript
 var user = {
-    name: 'lee'
-    location: 'Seoul'
+    name: 'lee',
+    location: 'Seoul',
+    greeting: function(){
+        console.log('hello! ${this.name}') 
+    }
 }
 ```
 

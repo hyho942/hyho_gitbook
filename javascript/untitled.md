@@ -24,6 +24,8 @@ There are compiler and interpreter methods for passing commands to a computer. T
 
 ### 3. JavaScript Feature
 
+Immediately execute the source code as an interpreter language. Javascript is a multi-paradigm programming language that supports imperative, functional, prototype-based object-oriented programming.
+
 ### 4. ECMAScript is...
 
 

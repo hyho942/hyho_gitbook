@@ -43,7 +43,7 @@
 
 ## GIT
 
-* [Git Comment](git/git-comment.md)
+* [Comment](git/git-comment.md)
 * [Github Fork](git/github-fork.md)
 
 ## Algorithm

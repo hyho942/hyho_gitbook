@@ -8,7 +8,7 @@
 * [Meta Tag](html/meta-tag.md)
 * [Sementic Markup](html/2.md)
 * [Box Model](html/box-model.md)
-* [Selector Level](html/selector-level.md)
+* [Selector](html/selector-level.md)
 * [Cross Browsing](html/cross-browsing.md)
 * [Accessibility](html/accessibility.md)
 * [Code Convention](html/code-convention.md)
@@ -18,6 +18,8 @@
 * [Position](css/1.md)
 * [CSS Reset](css/css-reset.md)
 * [Display](css/untitled.md)
+* [Padding / Margin](css/padding-margin.md)
+* [Size Value](css/size-value.md)
 
 ## Javascript
 

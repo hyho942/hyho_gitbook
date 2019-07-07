@@ -28,5 +28,7 @@
 
 ## Education
 
+Fastcampus   Front-end school
+
 ## Awards
 

@@ -22,10 +22,10 @@
 | **pwd** | Absolute position print |
 | **vim\(vi\)** | Open vim mode |
 | **dd** | Delete |
-| p | Post |
-| :wq | \(vim mode\) save and close |
-| :q! | close without save |
-| cat | Output index file |
+| **p** | Post |
+| **:wq** | \(vim mode\) save and close |
+| **:q!** | close without save |
+| **cat** | Output index file |
 
 
 

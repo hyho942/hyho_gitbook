@@ -37,6 +37,12 @@ It is an expression that can not be evaluated anymore. An expression is a statem
 
 Expressions are represented by the JavaScript engine to produce a single value. Which is mean The value can be assigned to a variable.
 
+
+
+#### Value Assignment 
+
+Value is assigned from the right side to the left side through the operator.
+
 ### 2. Number
 
 ### 3. String

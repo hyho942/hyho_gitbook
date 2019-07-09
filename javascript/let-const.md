@@ -1,4 +1,4 @@
 # Let / Const
 
-Block Level Scope
+Let, const = block scopedBlock Level Scope
 

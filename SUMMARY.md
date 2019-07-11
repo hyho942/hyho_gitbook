@@ -23,6 +23,7 @@
 
 ## Javascript
 
+* [Coding Convention](javascript/coding-convention.md)
 * [Javascript is...](javascript/untitled.md)
 * [Variable](javascript/variable.md)
 * [Object](javascript/object.md)

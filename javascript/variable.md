@@ -29,13 +29,27 @@ A statement that registers the variable name \(identifier\) ​​and notifies t
 
 * Variable declaration and assignment can express by one statement
 
+## Assignment of values.
+
+Use the assignment operator \(=\) when assigning variables. The assignment operator assigns the value on the right side to the variable on the left side.
+
 ## Variable Hoisting
 
-### Variable Name
+It is a feature that acts like a declaration is pulled to the head of the code. \(Applies to Var, let, const, function, class, variable, function, class\)
+
+## Variable Name
 
 
 
-var = function scoped
+var = Function Level Scope
 
-let, const = block scopedBlock Level Scope
+let, const = Block Level Scope
+
+
+
+
+
+## **Reserved word**
+
+await / break / case / catch / class / const / continue / debugger / default / delete / do / else / enum / export / extends / false / finally / for / function / if / implements\* / import / in / Instanceof / interface\* / let\* / new / null / package\* / private\* / protected\* / public\* / return / super / static\* / Switch / this / throw / true / try / typeof / var / void / while / with / yield\*
 

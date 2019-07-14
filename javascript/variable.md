@@ -23,6 +23,12 @@ a = 0;
 
 Concept to effectively memorize data and manage it for reuse
 
+## Scope
+
+var = Function Level Scope
+
+let, const = Block Level Scope
+
 ## Variable Declaration \(Statement\)
 
 A statement that registers the variable name \(identifier\) ​​and notifies the JavaScript engine of the existence of the variable. When declaring a variable, use the keyword var, let, const.
@@ -39,13 +45,9 @@ It is a feature that acts like a declaration is pulled to the head of the code. 
 
 ## Variable Name
 
+Declare a variable name and free memory space to store the value. undefined is implicitly initialized by assigning a value rather than an empty space.
 
-
-var = Function Level Scope
-
-let, const = Block Level Scope
-
-
+Initialization Phase: Get memory space to store values ​​and implicitly assign undefined.
 
 
 

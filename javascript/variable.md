@@ -49,7 +49,11 @@ Declare a variable name and free memory space to store the value. undefined is i
 
 Initialization Phase: Get memory space to store values ​​and implicitly assign undefined.
 
+## Memories
 
+변수에 값을 할당할 때는 이전 값 undefined가 저장되어 있던 메모리 공간을 지우고 그 메모리 공간에 할당 값 80을 새롭게 저장하는 것이 아니라 새로운 메모리 공간을 확보하고 그 메모리 공간에 할당 값 80을 저장하는 것에 주의하자.
+
+만약 초기에 지정한 값을 새로운 값으로 변경하고, 변경 값이 저장 후 이전 값을 undefined로 교체한다. 이전 값이 더 이상 필요하지 않은 값이 된다면 가비지 컬렉터 \(Garbage Collator\)에 의해 자동으로 메모리에서 해제된다.
 
 ## **Reserved word**
 

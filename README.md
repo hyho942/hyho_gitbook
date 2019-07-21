@@ -14,7 +14,8 @@
 
 {% tabs %}
 {% tab title="HTML" %}
-
+* Semantic Markup
+* 
 {% endtab %}
 
 {% tab title="CSS" %}
